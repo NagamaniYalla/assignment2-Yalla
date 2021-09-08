@@ -35,13 +35,16 @@ It's also a jumping-off point for **paragliding, rafting and mountaineering** in
 
 ---
 
+## Description of my Recommended Items
 The below is the table which would decribe my favorite dishes and the cost as well as the place where we can get them.These items are mostly based out of of India and I have included the amount in INR.
 
+## Table displaying list of recommended food items
 | Food/Drink Item | Place where we can get them | Amount of money expected to pay |
 | ---                   |---                                    |---:               |
 | Samosa Chat     | Delhi                       | 40 ruppes     |
 | Biryani         | Hyderabad                   | 180 rupees    |
 | Daal bhatti     | Bhopal                      | 120 rupees    |
 | Chole batura    | Rajasthan                   | 80 rupees     |
+| Lassi           | Punjab                      | 50 rupees     |
 
 
