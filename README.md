@@ -73,6 +73,6 @@ int fact_pow (int n, int k) {
 }
 
 ```
-### Click here to navigate to the source of the code given above: <https://cp-algorithms.com/algebra/factorial-divisors.html>
+Click here to navigate to the source of the code given above: <https://cp-algorithms.com/algebra/factorial-divisors.html>
 
 
