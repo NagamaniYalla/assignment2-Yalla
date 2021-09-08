@@ -30,3 +30,6 @@ It's also a jumping-off point for **paragliding, rafting and mountaineering** in
 * Clothing depending on the climate (mostly winter would be suitable)
     * Warm clothes
     * A good pair of boots
+    
+**[Click here to navigate to About Me](AboutMe.md)**
+
