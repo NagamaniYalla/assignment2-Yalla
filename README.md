@@ -51,9 +51,9 @@ The below is the table which would decribe my favorite dishes and the cost as we
 
 ## Quotes for Postive Vibes
 >Winners dont do different things,they do things differently
->>*Shiv kera*
+>>*by Shiv kera*
 
 >All power is within you,you can do everything and anything just belive in it
->>*Swami Vivekananda*
+>>*by Swami Vivekananda*
 
 
