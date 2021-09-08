@@ -18,4 +18,15 @@ It's also a jumping-off point for **paragliding, rafting and mountaineering** in
     6. Follow NH3 to Mall Rd in Manali
     7. Follow Mall Rd to Model Town Rd
 4. The destination Manali has arrived with beautiful scenic views
-
+* Items to eat
+    * Chips
+    * Soft drinks (coke being my fav)
+    * Pizza
+    * Burger
+* Bluetooth Speaker
+* Cd's of the movies to watch
+* Board Games
+* DLSR Camera to take good pictures
+* Clothing depending on the climate (mostly winter would be suitable)
+    * Warm clothes
+    * A good pair of boots
